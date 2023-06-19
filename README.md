@@ -1,4 +1,3 @@
-Caros colegas do LinkedIn!
 
 Gostaria de compartilhar com vocês algumas reflexões sobre o cadastro de pessoas usando o JDBC (Java Database Connectivity). Como muitos de vocês já sabem, o JDBC é uma API (Application Programming Interface) que permite que um programa Java acesse um banco de dados relacional. Essa tecnologia é amplamente utilizada em sistemas de informação de diversos tipos, desde aplicações desktop até aplicações web e móveis.
 
